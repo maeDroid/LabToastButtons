@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LabToastButtons</string>
+    <string name="hello_world"></string>
+    <string name="action_settings">Settings</string>
+    <string name="btn1">a</string>
+    <string name="btn2">bc</string>
+    <string name="btn3">def</string>
+    <string name="btn4">ghij</string>
+    <string name="btn5">klm</string>
+    <string name="btn6">no</string>
+    <string name="btn7">p</string>
+
+</resources>
